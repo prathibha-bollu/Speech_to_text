@@ -1,8 +1,9 @@
 # Node modules
-node_modules/
+
+node_modules
 
 # React build folder (optional, only if you don't want to track it)
-build/
+build
 
 # Logs
 *.log
