@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/speech_to_text/static/css/main.03b7bfde.css",
-    "main.js": "/speech_to_text/static/js/main.0a1b3c45.js",
-    "static/js/453.8cc38601.chunk.js": "/speech_to_text/static/js/453.8cc38601.chunk.js",
-    "index.html": "/speech_to_text/index.html",
-    "main.03b7bfde.css.map": "/speech_to_text/static/css/main.03b7bfde.css.map",
-    "main.0a1b3c45.js.map": "/speech_to_text/static/js/main.0a1b3c45.js.map",
-    "453.8cc38601.chunk.js.map": "/speech_to_text/static/js/453.8cc38601.chunk.js.map"
+    "main.css": "/Speech_to_text/static/css/main.03b7bfde.css",
+    "main.js": "/Speech_to_text/static/js/main.0a039479.js",
+    "static/js/453.8cc38601.chunk.js": "/Speech_to_text/static/js/453.8cc38601.chunk.js",
+    "index.html": "/Speech_to_text/index.html",
+    "main.03b7bfde.css.map": "/Speech_to_text/static/css/main.03b7bfde.css.map",
+    "main.0a039479.js.map": "/Speech_to_text/static/js/main.0a039479.js.map",
+    "453.8cc38601.chunk.js.map": "/Speech_to_text/static/js/453.8cc38601.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03b7bfde.css",
-    "static/js/main.0a1b3c45.js"
+    "static/js/main.0a039479.js"
   ]
 }
